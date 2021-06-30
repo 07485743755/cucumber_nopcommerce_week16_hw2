@@ -1,0 +1,213 @@
+2021-06-28 22:06:453 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 22:06:553 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7d8175358153c5385c6fd1067d295c08)] -> link text: Log in]
+2021-06-28 22:06:589 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7d8175358153c5385c6fd1067d295c08)] -> xpath: //div[@class='page-title']//h1]
+2021-06-28 22:06:492 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 22:06:952 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bb12c513c3458e73b8f557923a6e34f8)] -> link text: Log in]
+2021-06-28 22:06:990 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (bb12c513c3458e73b8f557923a6e34f8)] -> xpath: //div[@class='page-title']//h1]
+2021-06-28 22:06:150 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 22:06:887 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2836d300c662b82f90ca4b0bd0953eb5)] -> link text: Log in]
+2021-06-28 22:06:919 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (2836d300c662b82f90ca4b0bd0953eb5)] -> xpath: //div[@class='page-title']//h1]
+2021-06-28 22:06:989 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (2836d300c662b82f90ca4b0bd0953eb5)] -> xpath: //div[@class='page-title']//h1]
+2021-06-28 22:06:117 INFO  LoginPage :33 - Entering email address : nids2975@yahoo.com to email field : [[ChromeDriver: chrome on WINDOWS (2836d300c662b82f90ca4b0bd0953eb5)] -> id: Email]
+2021-06-28 22:06:225 INFO  LoginPage :39 - Entering password : N12345 to password field : [[ChromeDriver: chrome on WINDOWS (2836d300c662b82f90ca4b0bd0953eb5)] -> id: Password]
+2021-06-28 22:06:337 INFO  LoginPage :45 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (2836d300c662b82f90ca4b0bd0953eb5)] -> xpath: //button[@class='button-1 login-button']]
+2021-06-28 23:06:70 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 23:06:570 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b45a903b5692c757545bc82ccfc221f1)] -> link text: Log in]
+2021-06-28 23:06:780 INFO  LoginPage :33 - Entering email address : nids92@yahoo.com to email field : [[ChromeDriver: chrome on WINDOWS (b45a903b5692c757545bc82ccfc221f1)] -> id: Email]
+2021-06-28 23:06:880 INFO  LoginPage :39 - Entering password : N12345 to password field : [[ChromeDriver: chrome on WINDOWS (b45a903b5692c757545bc82ccfc221f1)] -> id: Password]
+2021-06-28 23:06:330 INFO  LoginPage :45 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='button-1 login-button']'
+2021-06-28 23:06:361 INFO  HomePage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b45a903b5692c757545bc82ccfc221f1)] -> xpath: //a[contains(text(),'Log out')]]
+2021-06-28 23:06:202 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 23:06:69 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3099761330b214e19001d55e74321c31)] -> link text: Log in]
+2021-06-28 23:06:181 INFO  LoginPage :33 - Entering email address : nids1@yahoo.com to email field : [[ChromeDriver: chrome on WINDOWS (3099761330b214e19001d55e74321c31)] -> id: Email]
+2021-06-28 23:06:272 INFO  LoginPage :39 - Entering password : N12345 to password field : [[ChromeDriver: chrome on WINDOWS (3099761330b214e19001d55e74321c31)] -> id: Password]
+2021-06-28 23:06:392 INFO  LoginPage :45 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (3099761330b214e19001d55e74321c31)] -> xpath: //button[@class='button-1 login-button']]
+2021-06-28 23:06:421 INFO  LoginPage :56 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3099761330b214e19001d55e74321c31)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-06-28 23:06:172 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 23:06:643 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7725d41951e7396077702a322160bd15)] -> link text: Log in]
+2021-06-28 23:06:751 INFO  LoginPage :33 - Entering email address : nids@yahoo.com to email field : [[ChromeDriver: chrome on WINDOWS (7725d41951e7396077702a322160bd15)] -> id: Email]
+2021-06-28 23:06:851 INFO  LoginPage :39 - Entering password : N12395 to password field : [[ChromeDriver: chrome on WINDOWS (7725d41951e7396077702a322160bd15)] -> id: Password]
+2021-06-28 23:06:932 INFO  LoginPage :45 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (7725d41951e7396077702a322160bd15)] -> xpath: //button[@class='button-1 login-button']]
+2021-06-28 23:06:952 INFO  LoginPage :56 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7725d41951e7396077702a322160bd15)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-06-28 23:06:692 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-28 23:06:969 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3abda1feed2eea13f8adc4daa3a9e295)] -> link text: Log in]
+2021-06-28 23:06:77 INFO  LoginPage :33 - Entering email address : nids17@yahoo.com to email field : [[ChromeDriver: chrome on WINDOWS (3abda1feed2eea13f8adc4daa3a9e295)] -> id: Email]
+2021-06-28 23:06:177 INFO  LoginPage :39 - Entering password : N17345 to password field : [[ChromeDriver: chrome on WINDOWS (3abda1feed2eea13f8adc4daa3a9e295)] -> id: Password]
+2021-06-28 23:06:292 INFO  LoginPage :45 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (3abda1feed2eea13f8adc4daa3a9e295)] -> xpath: //button[@class='button-1 login-button']]
+2021-06-28 23:06:322 INFO  LoginPage :56 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3abda1feed2eea13f8adc4daa3a9e295)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-06-29 09:06:841 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 09:06:155 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b1ec6595b9854dcedd6b2f2af3572198)] -> xpath: //a[@class='ico-register']]
+2021-06-29 09:06:193 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b1ec6595b9854dcedd6b2f2af3572198)] -> xpath: //h1[contains(text(),'Register')]]
+2021-06-29 10:06:595 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:113 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c6d70b162d65e095704e32f8db6ec786)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:213 INFO  HomePage :44 - Send text :  to [[ChromeDriver: chrome on WINDOWS (c6d70b162d65e095704e32f8db6ec786)] -> id: FirstName]
+2021-06-29 10:06:365 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (c6d70b162d65e095704e32f8db6ec786)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:786 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:369 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (aae0cf3ce3978fdc8a5f91169051d026)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:466 INFO  HomePage :44 - Send text :  to [[ChromeDriver: chrome on WINDOWS (aae0cf3ce3978fdc8a5f91169051d026)] -> id: FirstName]
+2021-06-29 10:06:586 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (aae0cf3ce3978fdc8a5f91169051d026)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:746 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:86 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5e3b5cf7c8e0818d7085ab1d9dfd97af)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:206 INFO  HomePage :44 - Send text :   to [[ChromeDriver: chrome on WINDOWS (5e3b5cf7c8e0818d7085ab1d9dfd97af)] -> id: FirstName]
+2021-06-29 10:06:326 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (5e3b5cf7c8e0818d7085ab1d9dfd97af)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:306 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:926 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (315989afa31ad9ec160a1515ab786557)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:35 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (315989afa31ad9ec160a1515ab786557)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:267 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:696 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:792 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:887 INFO  HomePage :56 - Send text : alina557@gmail.com to [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> xpath: //input[@id='Email']]
+2021-06-29 10:06:971 INFO  HomePage :62 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> id: Password]
+2021-06-29 10:06:86 INFO  HomePage :67 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> id: ConfirmPassword]
+2021-06-29 10:06:212 INFO  HomePage :72 - Clicking on : [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> id: register-button]
+2021-06-29 10:06:747 INFO  HomePage :76 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (2e65f4a226d6a8eca1bfb5cee4ac593e)] -> id: FirstName-error]
+2021-06-29 10:06:258 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:928 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:28 INFO  HomePage :44 - Send text : Alina to [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> id: FirstName]
+2021-06-29 10:06:647 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:758 INFO  HomePage :56 - Send text : alina2810@gmail.com to [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> xpath: //input[@id='Email']]
+2021-06-29 10:06:846 INFO  HomePage :62 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> id: Password]
+2021-06-29 10:06:977 INFO  HomePage :67 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> id: ConfirmPassword]
+2021-06-29 10:06:228 INFO  HomePage :72 - Clicking on : Proxy element for: DefaultElementLocator 'By.id: register-button'
+2021-06-29 10:06:778 INFO  HomePage :81 - Getting registration success message From : [[ChromeDriver: chrome on WINDOWS (b59f58cd3e56a6d428b64a7f0f7775ac)] -> xpath: //div[contains(text(),'Your registration completed')]]
+2021-06-29 10:06:487 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:38 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ddad0f9aaca40ff2e74e2c46b192708e)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:93 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ddad0f9aaca40ff2e74e2c46b192708e)] -> xpath: //h1[contains(text(),'Register')]]
+2021-06-29 10:06:825 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:48 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:663 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:776 INFO  HomePage :56 - Send text : alina3652@gmail.com to [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> xpath: //input[@id='Email']]
+2021-06-29 10:06:870 INFO  HomePage :62 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> id: Password]
+2021-06-29 10:06:963 INFO  HomePage :67 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> id: ConfirmPassword]
+2021-06-29 10:06:47 INFO  HomePage :72 - Clicking on : [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> id: register-button]
+2021-06-29 10:06:583 INFO  HomePage :76 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (5b11e3cacf0b1de1175be1c8f06e636c)] -> id: FirstName-error]
+2021-06-29 10:06:398 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:717 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:828 INFO  HomePage :44 - Send text : Alina to [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> id: FirstName]
+2021-06-29 10:06:448 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:568 INFO  HomePage :56 - Send text : alina174@gmail.com to [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> xpath: //input[@id='Email']]
+2021-06-29 10:06:665 INFO  HomePage :62 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> id: Password]
+2021-06-29 10:06:748 INFO  HomePage :67 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> id: ConfirmPassword]
+2021-06-29 10:06:948 INFO  HomePage :72 - Clicking on : Proxy element for: DefaultElementLocator 'By.id: register-button'
+2021-06-29 10:06:538 INFO  HomePage :81 - Getting registration success message From : [[ChromeDriver: chrome on WINDOWS (acf6bdc4ea885e93d4f7d6fd79d6b568)] -> xpath: //div[contains(text(),'Your registration completed')]]
+2021-06-29 10:06:486 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:47 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (354c0b824899076b8e3cf52f48d0a05b)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:68 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (354c0b824899076b8e3cf52f48d0a05b)] -> xpath: //h1[contains(text(),'Register')]]
+2021-06-29 10:06:287 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:794 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4764cdf85a787856f038b9aacaf95700)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:827 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4764cdf85a787856f038b9aacaf95700)] -> xpath: //h1[contains(text(),'Register')]]
+2021-06-29 10:06:539 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:758 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> xpath: //a[@class='ico-register']]
+2021-06-29 10:06:368 INFO  HomePage :50 - send text : Salvator to [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> xpath: //input[@id='LastName']]
+2021-06-29 10:06:478 INFO  HomePage :56 - Send text : alina4994@gmail.com to [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> xpath: //input[@id='Email']]
+2021-06-29 10:06:578 INFO  HomePage :62 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> id: Password]
+2021-06-29 10:06:658 INFO  HomePage :67 - Send text : Alina12345 to [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> id: ConfirmPassword]
+2021-06-29 10:06:755 INFO  HomePage :72 - Clicking on : [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> id: register-button]
+2021-06-29 10:06:296 INFO  HomePage :76 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (d6f9bbc355b646b9998735ed892e7aa8)] -> id: FirstName-error]
+2021-06-29 10:06:197 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:370 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:491 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:171 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:181 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (0034632b56f8206efb62fd19a97ba5a8)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 10:06:361 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0034632b56f8206efb62fd19a97ba5a8)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 10:06:391 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (0034632b56f8206efb62fd19a97ba5a8)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 10:06:720 INFO  DesktopsPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0034632b56f8206efb62fd19a97ba5a8)] -> xpath: //h1[contains(text(),'Desktops')]]
+2021-06-29 10:06:92 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 10:06:52 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (c2c071336bd2023fc5f6c0ade945ed74)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 10:06:212 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c2c071336bd2023fc5f6c0ade945ed74)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 10:06:222 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c2c071336bd2023fc5f6c0ade945ed74)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 10:06:239 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (c2c071336bd2023fc5f6c0ade945ed74)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 10:06:691 INFO  NoteBooksPage :19 - Getting text from : [[ChromeDriver: chrome on WINDOWS (c2c071336bd2023fc5f6c0ade945ed74)] -> xpath: //h1[contains(text(),'Notebooks')]]
+2021-06-29 11:06:547 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:721 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (5b53ba43d74881ba7e96a9a4fe12e5d1)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 11:06:952 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5b53ba43d74881ba7e96a9a4fe12e5d1)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 11:06:962 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (5b53ba43d74881ba7e96a9a4fe12e5d1)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 11:06:302 INFO  DesktopsPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5b53ba43d74881ba7e96a9a4fe12e5d1)] -> xpath: //h1[contains(text(),'Desktops')]]
+2021-06-29 11:06:82 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:164 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (40cbd66cff004d0753f3a3b8ff9b5af8)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 11:06:407 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (40cbd66cff004d0753f3a3b8ff9b5af8)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 11:06:431 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (40cbd66cff004d0753f3a3b8ff9b5af8)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 11:06:439 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (40cbd66cff004d0753f3a3b8ff9b5af8)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 11:06:142 INFO  NoteBooksPage :19 - Getting text from : [[ChromeDriver: chrome on WINDOWS (40cbd66cff004d0753f3a3b8ff9b5af8)] -> xpath: //h1[contains(text(),'Notebooks')]]
+2021-06-29 11:06:940 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:868 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (6fe6cff5f893d519ffd85e97753197be)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 11:06:52 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6fe6cff5f893d519ffd85e97753197be)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 11:06:71 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6fe6cff5f893d519ffd85e97753197be)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 11:06:95 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6fe6cff5f893d519ffd85e97753197be)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 11:06:121 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (6fe6cff5f893d519ffd85e97753197be)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 11:06:559 INFO  SoftwarePage :20 - Getting text from : [[ChromeDriver: chrome on WINDOWS (6fe6cff5f893d519ffd85e97753197be)] -> xpath: //h1[contains(text(),'Software')]]
+2021-06-29 11:06:842 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:908 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (305bc376e18c83171a5c1028b3e1b856)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 11:06:77 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (305bc376e18c83171a5c1028b3e1b856)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 11:06:102 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (305bc376e18c83171a5c1028b3e1b856)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 11:06:402 INFO  DesktopsPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (305bc376e18c83171a5c1028b3e1b856)] -> xpath: //h1[contains(text(),'Desktops')]]
+2021-06-29 11:06:608 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:720 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (ce8c6aae43b9164f7f7c7ee46b7bc32f)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 11:06:878 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ce8c6aae43b9164f7f7c7ee46b7bc32f)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 11:06:891 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (ce8c6aae43b9164f7f7c7ee46b7bc32f)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 11:06:352 INFO  DesktopsPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ce8c6aae43b9164f7f7c7ee46b7bc32f)] -> xpath: //h1[contains(text(),'Desktops')]]
+2021-06-29 11:06:52 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:328 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9147b9cfb228d8fdddc6d333ba59c3b5)] -> link text: Log in]
+2021-06-29 11:06:359 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9147b9cfb228d8fdddc6d333ba59c3b5)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 11:06:570 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 11:06:260 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b5a087fcce1536bcd71e8e83b42d6cc4)] -> xpath: //a[@class='ico-register']]
+2021-06-29 11:06:282 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b5a087fcce1536bcd71e8e83b42d6cc4)] -> xpath: //h1[contains(text(),'Register')]]
+2021-06-29 13:06:468 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:726 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (d3568d8e61522b7463182acb1b986533)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:933 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d3568d8e61522b7463182acb1b986533)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 13:06:949 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (d3568d8e61522b7463182acb1b986533)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:307 INFO  DesktopsPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d3568d8e61522b7463182acb1b986533)] -> xpath: //h1[contains(text(),'Desktops')]]
+2021-06-29 13:06:88 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:114 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (7d328ae02ad053d5492a70de0008dcf0)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:317 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7d328ae02ad053d5492a70de0008dcf0)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Computers
+2021-06-29 13:06:333 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7d328ae02ad053d5492a70de0008dcf0)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Computers
+2021-06-29 13:06:345 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7d328ae02ad053d5492a70de0008dcf0)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Computers
+2021-06-29 13:06:396 INFO  HomePage :18 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='page-title']//h1'<br>
+2021-06-29 13:06:597 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:622 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (d17f06b227f6741761e52c899b521d6f)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:810 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d17f06b227f6741761e52c899b521d6f)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 13:06:870 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d17f06b227f6741761e52c899b521d6f)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 13:06:882 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (d17f06b227f6741761e52c899b521d6f)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:612 INFO  HomePage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d17f06b227f6741761e52c899b521d6f)] -> xpath: //div[@class='page-title']//h1]<br>
+2021-06-29 13:06:367 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:486 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (ec90edcd9bee73ea89872b83f8f95c26)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:642 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ec90edcd9bee73ea89872b83f8f95c26)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 13:06:654 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ec90edcd9bee73ea89872b83f8f95c26)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 13:06:668 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ec90edcd9bee73ea89872b83f8f95c26)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 13:06:679 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (ec90edcd9bee73ea89872b83f8f95c26)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:888 INFO  HomePage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ec90edcd9bee73ea89872b83f8f95c26)] -> xpath: //div[@class='page-title']//h1]<br>
+2021-06-29 13:06:708 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:888 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e1df87c58fb1fad46959d9ed81d697a9)] -> link text: Log in]
+2021-06-29 13:06:919 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e1df87c58fb1fad46959d9ed81d697a9)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 13:06:156 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:574 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e40760fec000c5c98c7c909abc18b274)] -> xpath: //a[@class='ico-register']]
+2021-06-29 13:06:607 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e40760fec000c5c98c7c909abc18b274)] -> xpath: //h1[contains(text(),'Register')]]
+2021-06-29 13:06:579 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:922 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (f48fcf1bf01967c3dd9127bba59bb913)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:126 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f48fcf1bf01967c3dd9127bba59bb913)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 13:06:143 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (f48fcf1bf01967c3dd9127bba59bb913)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:431 INFO  DesktopsPage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f48fcf1bf01967c3dd9127bba59bb913)] -> xpath: //h1[contains(text(),'Desktops')]]
+2021-06-29 13:06:212 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:336 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (09be622398f358f01389b72090dba5aa)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:512 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (09be622398f358f01389b72090dba5aa)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Desktops
+2021-06-29 13:06:523 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (09be622398f358f01389b72090dba5aa)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:803 INFO  HomePage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (09be622398f358f01389b72090dba5aa)] -> xpath: //div[@class='page-title']//h1]<br>
+2021-06-29 13:06:602 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:719 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (94773eb8302d9d647bd2e52abde44823)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:895 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (94773eb8302d9d647bd2e52abde44823)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 13:06:910 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (94773eb8302d9d647bd2e52abde44823)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Notebooks
+2021-06-29 13:06:922 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (94773eb8302d9d647bd2e52abde44823)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:561 INFO  HomePage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (94773eb8302d9d647bd2e52abde44823)] -> xpath: //div[@class='page-title']//h1]<br>
+2021-06-29 13:06:349 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:533 INFO  HomePage :50 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (eddefb13cba35ef2a8a5ca1f46d113b9)] -> xpath: (//a[contains(text(),'Computers ')])[1]]
+2021-06-29 13:06:752 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (eddefb13cba35ef2a8a5ca1f46d113b9)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 13:06:766 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (eddefb13cba35ef2a8a5ca1f46d113b9)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 13:06:781 INFO  HomePage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (eddefb13cba35ef2a8a5ca1f46d113b9)] -> xpath: (//ul[@class='sublist first-level'])[1]//a] compare it with : Software
+2021-06-29 13:06:796 INFO  HomePage :61 - Mouse hover and click on element : [[ChromeDriver: chrome on WINDOWS (eddefb13cba35ef2a8a5ca1f46d113b9)] -> xpath: (//ul[@class='sublist first-level'])[1]//a]
+2021-06-29 13:06:149 INFO  HomePage :18 - Getting text from : [[ChromeDriver: chrome on WINDOWS (eddefb13cba35ef2a8a5ca1f46d113b9)] -> xpath: //div[@class='page-title']//h1]<br>
+2021-06-29 13:06:973 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:168 INFO  HomePage :33 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5f9839def50f95ee86fc7c526ff8b3e1)] -> link text: Log in]
+2021-06-29 13:06:187 INFO  LoginPage :50 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5f9839def50f95ee86fc7c526ff8b3e1)] -> xpath: //div[@class='page-title']//h1]
+2021-06-29 13:06:653 INFO  BasePage :31 - Launching Chrome Browser 
+2021-06-29 13:06:450 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (61e9982fb4498506f2344070ed12f6c0)] -> xpath: //a[@class='ico-register']]
+2021-06-29 13:06:493 INFO  HomePage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (61e9982fb4498506f2344070ed12f6c0)] -> xpath: //h1[contains(text(),'Register')]]

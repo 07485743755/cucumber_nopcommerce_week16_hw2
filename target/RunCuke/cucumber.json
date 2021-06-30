@@ -1,0 +1,620 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4113640300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify that user should navigate to Desktops page successfully",
+        "description": "",
+        "id": "computers-tab-test;verify-that-user-should-navigate-to-desktops-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 734104200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 120054700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1236807200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I mouse hover on Computers tab",
+            "match": {
+              "location": "ComputersStepdefs.iMouseHoverOnComputersTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1298456300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select \"Desktops\" link from Computers tab drop down",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Desktops",
+                  "offset": 10
+                }
+              ],
+              "location": "ComputersStepdefs.iSelectLinkFromComputersTabDropDown(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 64154000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should navigate to Desktops page successfully with title text \"Desktops\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Desktops",
+                  "offset": 65
+                }
+              ],
+              "location": "ComputersStepdefs.iShouldNavigateToDesktopsPageSuccessfullyWithTitleText(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@Sanity"
+          },
+          {
+            "line": 5,
+            "name": "@Smoke"
+          },
+          {
+            "line": 5,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3084164600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 34,
+        "name": "Verify that User should navigate to \"Desktops\"page successfully",
+        "description": "",
+        "id": "computers-tab-test;verify-that-user-should-navigate-to-\"\u003ccomputersdropdowntab\u003e\"page-successfully;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 755079500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 21000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1185062300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I mouse hover on Computers tab",
+            "match": {
+              "location": "ComputersStepdefs.iMouseHoverOnComputersTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1295289700,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I select \"Desktops\" link from Computers tab drop down",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Desktops",
+                  "offset": 10
+                }
+              ],
+              "location": "ComputersStepdefs.iSelectLinkFromComputersTabDropDown(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59346700,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I should navigate to \"Desktops\"page successfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Desktops",
+                  "offset": 22
+                }
+              ],
+              "location": "ComputersStepdefs.iShouldNavigateToPageSuccessfully(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@Sanity"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3087083800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "Verify that User should navigate to \"Notebooks\"page successfully",
+        "description": "",
+        "id": "computers-tab-test;verify-that-user-should-navigate-to-\"\u003ccomputersdropdowntab\u003e\"page-successfully;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 743426700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 26600,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1177251800,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I mouse hover on Computers tab",
+            "match": {
+              "location": "ComputersStepdefs.iMouseHoverOnComputersTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1664577700,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I select \"Notebooks\" link from Computers tab drop down",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Notebooks",
+                  "offset": 10
+                }
+              ],
+              "location": "ComputersStepdefs.iSelectLinkFromComputersTabDropDown(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60035800,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I should navigate to \"Notebooks\"page successfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Notebooks",
+                  "offset": 22
+                }
+              ],
+              "location": "ComputersStepdefs.iShouldNavigateToPageSuccessfully(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@Sanity"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3151458100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Verify that User should navigate to \"Software\"page successfully",
+        "description": "",
+        "id": "computers-tab-test;verify-that-user-should-navigate-to-\"\u003ccomputersdropdowntab\u003e\"page-successfully;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 780974200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 27700,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1223066800,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I mouse hover on Computers tab",
+            "match": {
+              "location": "ComputersStepdefs.iMouseHoverOnComputersTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1385372000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I select \"Software\" link from Computers tab drop down",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Software",
+                  "offset": 10
+                }
+              ],
+              "location": "ComputersStepdefs.iSelectLinkFromComputersTabDropDown(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 73167300,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I should navigate to \"Software\"page successfully",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Software",
+                  "offset": 22
+                }
+              ],
+              "location": "ComputersStepdefs.iShouldNavigateToPageSuccessfully(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@Sanity"
+          }
+        ]
+      }
+    ],
+    "name": "Computers tab test",
+    "description": "\r\nAs a user I want to navigate to all pages which open from computers tab drop down",
+    "id": "computers-tab-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featureFile/computer.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3016388100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should navigate to login page successfully",
+        "description": "",
+        "id": "login-test;user-should-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1434028100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 44600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1178482100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on loginLink",
+            "match": {
+              "location": "LoginStepdefs.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 45080700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should navigate to login page successfully",
+            "match": {
+              "location": "LoginStepdefs.iShouldNavigateToLoginPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@Smoke"
+          },
+          {
+            "line": 5,
+            "name": "@Sanity"
+          },
+          {
+            "line": 5,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Login test",
+    "description": "\r\nAs a User I want to login in to nopCommerce website",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featureFile/login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3129649200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should navigate to register page successfully",
+        "description": "",
+        "id": "register-test;user-should-navigate-to-register-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 950032500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 51200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 665222900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on register link",
+            "match": {
+              "location": "RegisterStepdefs.iClickOnRegisterLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1061690500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should navigate to register page with page title text \"Register\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Register",
+                  "offset": 57
+                }
+              ],
+              "location": "RegisterStepdefs.iShouldNavigateToRegisterPageWithPageTitleText(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Sanity"
+          },
+          {
+            "line": 4,
+            "name": "@Smoke"
+          },
+          {
+            "line": 4,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Register Test",
+    "description": "As a user I want to register on nopCommerce web site",
+    "id": "register-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featureFile/register.feature"
+  }
+]
