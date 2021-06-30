@@ -62,4 +62,9 @@ public class RegisterStepdefs {
         Thread.sleep(500);
         Assert.assertEquals(expectedRegistrationSuccessMessage, new RegisterPage().getRegistrationSuccessMessage());
     }
+
+    @And("^I enter email\"([^\"]*)\" in email field$")
+    public void iEnterEmailInEmailField(String email)  {
+        new RegisterPage().enterEmailId(email);
+    }
 }

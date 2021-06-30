@@ -12,8 +12,8 @@ Feature: Login test
   Scenario: User should login successfully with valid credentials
     Given I am on homepage
     When I click on loginLink
-    And   I enter email"nids92@yahoo.com"
-    And   I enter password"N12345"
+    And   I enter email"alina908@gmail.com"
+    And   I enter password"Alina12345"
     And   I click on login button
     Then  I should login successfully
 

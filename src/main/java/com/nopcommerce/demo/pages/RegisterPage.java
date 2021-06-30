@@ -56,6 +56,12 @@ public class RegisterPage extends Utility {
         log.info("Send text : "+userName+generateRandomNumber()+domain+" to "+emailField.toString());
     }
 
+    public void enterEmailId(String email){
+
+        sendTextToElement(emailField,email);
+        log.info("Send text : "+email+" to "+emailField.toString());
+    }
+
     public void enterPassword(String password){
 
         sendTextToElement(passwordField,password);
